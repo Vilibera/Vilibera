@@ -8,6 +8,7 @@ I'm a Computer Science student from Lithuania who likes building things close to
 |---|---|
 | [**ha-homelab-server-card**](https://github.com/Vilibera/ha-homelab-server-card) | A Lovelace card that turns Home Assistant into a homelab dashboard: servers, Proxmox Backup Server and Borg backups, restore drills, and Docker services from Prometheus. [Live demo](https://vilibera.github.io/ha-homelab-server-card/docs/) |
 | [**homelab-alerts-to-home-assistant**](https://github.com/Vilibera/homelab-alerts-to-home-assistant) | Alertmanager, Proxmox and Diun alerts as native phone notifications, using a single HA automation and no extra services. |
+| [**HouseControl**](https://github.com/Vilibera/HouseControl) | A DIY smart home built from scratch: Arduino and ESP8266 nodes over MQTT, Raspberry Pi Python services, MySQL and a PHP web app. Includes a demo video. |
 | [**MQTT_subscribe**](https://github.com/Vilibera/MQTT_subscribe) | A C MQTT subscriber for OpenWrt routers, with a LuCI web UI and e-mail alerts sent through libcurl. |
 | [**device_coonect_to_ibm_cloud_iot**](https://github.com/Vilibera/device_coonect_to_ibm_cloud_iot) | A C daemon that connects an OpenWrt device to IBM Watson IoT Platform. |
 
@@ -18,7 +19,7 @@ Proxmox VE · Proxmox Backup Server · Docker · Raspberry Pi 4 · Prometheus + 
 
 #### 🛠️ Tech
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
